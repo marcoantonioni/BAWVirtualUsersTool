@@ -23,7 +23,7 @@ https://github.com/marcoantonioni/virtual-users-locust-apps
 
 <b>BAWVirtualUsersTool</b> is a tool written in Python language for simulating interactions between users and tasks of applications deployed in IBM Business Automation Workflow (both Traditional and CP4BA deployments).
 
-## Context
+## Business Process Testing Context
 
 Business Process Testing (BPT) validates end-to-end business workflows across multiple applications and systems, emphasizing the interconnectedness of these components. Crucial for identifying cross-functional impacts, BPT relies heavily on regression testing to detect unintended consequences from system changes. Given the complexity and time-intensive nature of testing diverse scenarios in long-running processes, automation is essential for effective BPT implementation, enabling efficient bug detection and ensuring system stability before production release.
 
